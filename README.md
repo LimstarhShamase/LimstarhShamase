@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @LimstarhShamase but you can call me Limstarh and if you can't pronounce that you can call me by Lungani
+- 👀 I’m pretty much into coding if you're like don't be afraid to hit me up
+- 🌱 I’m currently learning Python, C# and fullstack web development with HTML, CSS, JavaScript, MySQL
+- 💞️ I’m looking to collaborate on an e-commerce website I have created for a restaurant
+- 📫 How to reach me: by email on lunganinkosikhona@gmail.com by call: +27648615589
+- 😄 Pronouns: Male
+- ⚡ Fun fact: I'm a twin and my sister is also a programmer like myself
